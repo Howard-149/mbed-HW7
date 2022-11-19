@@ -3,8 +3,7 @@
 ## Introduction
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-This program allows **DISCO-L4S5I** to read sensor values and send datas to server through wifi. 
-Server will recieve the data and visualize them.
+In this program, we use **STM32** to sense the value of acceleration and apply a high pass filter on the data. We first use Matlab to get the coefficient of a high pass filter and then call the ```arm_fir_init_f32()``` function to 
 
 To run the program, there're few steps to be done:
 1. Create an empty project
