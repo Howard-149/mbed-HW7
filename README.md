@@ -27,7 +27,7 @@ For example, we first run the program and then use matlab to visualize our data.
 <br></br>
 
 ### Filter (Here we implement a high pass filter)
-<img src="https://github.com/Howard-149/mbed-HW7/blob/master/result/filter.png"/>
+<img src="https://github.com/Howard-149/mbed-HW7/blob/master/result/filter.png" height=50% width=50%/>
 
 
 ### The sensor data of acceleration in both time and frequency domain
