@@ -26,7 +26,7 @@ For example, we first run the program and then use matlab to visualize our data.
 
 <br></br>
 
-### Filter (Here we implement a high pass filter)
+### Filter in time domain and frequency domain (Here we implement a high pass filter)
 <a href="https://imgur.com/BhaGflc"><img src="https://i.imgur.com/BhaGflc.png" title="source: imgur.com" /></a>
 
 
