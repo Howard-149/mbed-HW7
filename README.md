@@ -13,13 +13,14 @@ To run the program, there're few steps to be done:
 
 **We use Matlab to visualize our data, you may choose your prefer way to do it yourself.**
 
-reference: https://github.com/ARM-software/CMSIS-DSP/tree/main/Examples/ARM/arm_fir_example
+code reference: https://github.com/ARM-software/CMSIS-DSP/tree/main/Examples/ARM/arm_fir_example
 
 
 ## Example
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-For example, we use matlab to visualize our data. 
+For example, we first run the program and then use matlab to visualize our data. 
 
-
+<br></br>
+**
 <a href="https://imgur.com/XmTYUnn"><img src="https://i.imgur.com/XmTYUnn.png" title="source: imgur.com" /></a>
