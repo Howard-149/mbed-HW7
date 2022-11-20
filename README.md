@@ -22,5 +22,7 @@ code reference: https://github.com/ARM-software/CMSIS-DSP/tree/main/Examples/ARM
 For example, we first run the program and then use matlab to visualize our data. 
 
 <br></br>
-**
+- **AX**: acceleration in x-direction
+- **AY**: acceleration in y-direction
+- **AZ**: acceleration in z-direction
 <a href="https://imgur.com/XmTYUnn"><img src="https://i.imgur.com/XmTYUnn.png" title="source: imgur.com" /></a>
