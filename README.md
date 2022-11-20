@@ -23,4 +23,8 @@ For example, we first run the program and then use matlab to visualize our data.
 - **AX**: acceleration in x-direction
 - **AY**: acceleration in y-direction
 - **AZ**: acceleration in z-direction
+
+<br></br>
+
+### The sensor data of acceleration in both time and frequency domain
 <a href="https://imgur.com/XmTYUnn"><img src="https://i.imgur.com/XmTYUnn.png" title="source: imgur.com" /></a>
