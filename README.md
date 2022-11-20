@@ -16,5 +16,5 @@ To run the program, there're few steps to be done:
 **We use Matlab to visualize our data, you may choose your prefer way to do it yourself.**
 
 
-https://github.com/ARM-software/CMSIS-DSP/tree/main/Examples/ARM
-https://github.com/ARM-software/CMSIS-DSP/tree/main/Examples/ARM/arm_fir_example
+
+reference: https://github.com/ARM-software/CMSIS-DSP/tree/main/Examples/ARM/arm_fir_example
